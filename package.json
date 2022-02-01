@@ -1,0 +1,26 @@
+{
+  "name": "my-awesome-app-jdp",
+  "version": "0.1.0",
+  "description": "Hello World in Node with Express",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "joshua-dela-pena",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joshua-Dela-Pena/my-awesome-app-jdp.git"
+  },
+  "keywords": [
+    "Hello",
+    "World"
+  ],
+  "bugs": {
+    "url": "https://github.com/Joshua-Dela-Pena/my-awesome-app-jdp/issues"
+  },
+  "homepage": "https://github.com/Joshua-Dela-Pena/my-awesome-app-jdp#readme"
+}
