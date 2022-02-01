@@ -1,3 +1,5 @@
+"Learn advanced git commands and understand why they work."
+
 const express = require('express')
 const app = express()
 
